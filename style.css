@@ -1,0 +1,16 @@
+body {
+    background-color: #333333;
+    color: #efefef;
+    display: flex;
+    justify-content: center;
+}
+a {
+    color: #efefef;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    background-color: #3b3b3b;
+}
